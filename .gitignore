@@ -1,3 +1,11 @@
+# pdf files
+*.pdf
+
+# twitter data files
+twitter_combined.txt
+twitter.tar
+twitter_ego/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
