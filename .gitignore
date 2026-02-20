@@ -6,6 +6,11 @@ twitter_combined.txt
 twitter.tar
 twitter_ego/
 
+# results files
+*.png
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
